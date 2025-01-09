@@ -1518,7 +1518,7 @@
 	(footprint "ScottoKeebs_Components:TRRS_PJ-320A"
 		(layer "F.Cu")
 		(uuid "30345d47-2dce-45b4-8f3c-bc97a143069b")
-		(at 174.625 69.975 -90)
+		(at 178.865 76.995 -90)
 		(property "Reference" "U2"
 			(at 0 14.2 90)
 			(layer "Dwgs.User")
@@ -4374,7 +4374,7 @@
 	(footprint "ScottoKeebs_MCU:Raspberry_Pi_Pico"
 		(layer "F.Cu")
 		(uuid "4d860801-b662-4002-be04-73397a7cdd07")
-		(at 163.4 38.7)
+		(at 167.64 45.72)
 		(property "Reference" "U1"
 			(at 0 -32 0)
 			(layer "F.SilkS")
@@ -9062,7 +9062,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "915ce484-5b9b-4988-a1cb-a33381e9aaa6")
-		(at 165.1 79.375 150)
+		(at 161.925 82.55 150)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
