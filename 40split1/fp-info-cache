@@ -1,4 +1,4 @@
-1154908414666111
+1158122844523062
 ScottoKeebs_Alps
 Alps
 Alps/keyswitch
@@ -1137,6 +1137,13 @@ ScottoKeebs_Components
 ESD_SOT-23-6
 SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
+0
+6
+6
+ScottoKeebs_Components
+Encoder_Ano
+
+
 0
 6
 6

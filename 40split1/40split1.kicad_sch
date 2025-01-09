@@ -1771,16 +1771,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 62.23) (xy 222.25 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "609386f1-9f2f-4f78-9bcf-0226e6c87ff6")
-	)
-	(wire
-		(pts
 			(xy 220.98 87.63) (xy 224.79 87.63)
 		)
 		(stroke
@@ -1861,6 +1851,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 100.33) (xy 240.03 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cee970e-6988-42de-b497-6bedb8119876")
+	)
+	(wire
+		(pts
 			(xy 146.05 85.09) (xy 146.05 101.6)
 		)
 		(stroke
@@ -1891,16 +1891,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 54.61) (xy 222.25 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88e74956-980f-4dc8-ae83-3e9c82e246c6")
-	)
-	(wire
-		(pts
 			(xy 125.73 81.28) (xy 138.43 81.28)
 		)
 		(stroke
@@ -1918,6 +1908,16 @@
 			(type default)
 		)
 		(uuid "991ab8a8-9a9d-411f-99be-f5d4576b0fc0")
+	)
+	(wire
+		(pts
+			(xy 255.27 49.53) (xy 259.08 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cbe422c-df4a-4ddc-8049-4a280582e33a")
 	)
 	(wire
 		(pts
@@ -2281,7 +2281,7 @@
 	)
 	(global_label "sleeve"
 		(shape input)
-		(at 222.25 62.23 180)
+		(at 240.03 102.87 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2291,7 +2291,7 @@
 		)
 		(uuid "3b46c76f-c3af-488c-bae2-1c61cc09fa99")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.3381 62.23 0)
+			(at 240.03 111.7819 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2435,22 +2435,22 @@
 	)
 	(global_label "Tip"
 		(shape input)
-		(at 222.25 54.61 180)
+		(at 259.08 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "900bffce-6339-4e4f-9ec5-a5081398d1e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 216.5434 54.61 0)
+			(at 264.7866 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
