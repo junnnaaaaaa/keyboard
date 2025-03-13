@@ -2,7 +2,7 @@
 
 todo:
 
-put a direction arrow in the diode cluster
-double check all wiring
-fix malformed edge cuts
-more?
+- put a direction arrow in the diode cluster
+- double check all wiring
+- fix malformed edge cuts
+- more?
