@@ -3,6 +3,14 @@
 todo:
 
 - put a direction arrow in the diode cluster
-- double check all wiring (write schematics to help with such)
-- fix malformed edge cuts
-- more?
+<<<<<<< HEAD
+- double check all wiring //done
+- fix malformed edge cuts //done
+- schematics
+- write qmk firmware for the board
+- shill cascade
+- 3d model a case
+- 3d model a plate
+- source parts
+- build that bitch
+

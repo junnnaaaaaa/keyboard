@@ -26463,6 +26463,7 @@
 		(property "Reference" "REF**"
 			(at 0 1.8 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0e945661-fe9b-4c77-927b-bf8de9072253")
 			(effects
 				(font
@@ -26614,6 +26615,7 @@
 		(property "Reference" "REF**"
 			(at 0 1.8 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1aa81753-9171-4f14-8eb0-d499cb30be92")
 			(effects
 				(font
@@ -27166,6 +27168,66 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f97be9a1-7250-40b2-92d3-0d5e54b77521")
+	)
+	(gr_text "Bridge these if\nthey are on the\nTOP"
+		(at 193.99 80.27 0)
+		(layer "F.SilkS")
+		(uuid "0bf7ed5f-1973-47c8-9435-4aa7ee828dfb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text ":3"
+		(at 189.19 150.27 0)
+		(layer "F.SilkS")
+		(uuid "1c41fc8d-6fb3-4866-a41e-202e44bb121e")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.4)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Bridge these if\nthey are on the\nTOP"
+		(at 205.79 80.27 -0)
+		(layer "B.SilkS")
+		(uuid "7a39535a-3c22-4503-8819-30b97d28dcb5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text ":3"
+		(at 195.19 150.27 -0)
+		(layer "B.SilkS")
+		(uuid "89c5244b-495b-48f5-9b8e-2059c8d7d80c")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.4)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "github.com/junnnaaaaaa\ngithub.com/HamNuggets"
+		(at 184.59 83.67 0)
+		(layer "B.SilkS")
+		(uuid "9bee6dd3-1b35-4d6e-9b5a-fff611237189")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(segment
 		(start 141.235145 130.804808)
