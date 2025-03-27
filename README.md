@@ -1,16 +1,16 @@
 ![screenshot of the corne](https://github.com/HamNuggets/temu_corne/blob/main/screenshot.png?raw=true)
+![screenshot of the corne pcb](https://github.com/HamNuggets/temu_corne/blob/main/pcb.png?raw=true)
 
-todo:
+Current version: Testicular Corne v4
 
-- put a direction arrow in the diode cluster
-<<<<<<< HEAD
-- double check all wiring //done
-- fix malformed edge cuts //done
-- schematics
-- write qmk firmware for the board
-- shill cascade
-- 3d model a case
-- 3d model a plate
-- source parts
-- build that bitch
+Changes from Testicular Corne v3:
+- rid of the immature diode cluster
+- direction arrows on each diode
+- flavour text
+- ground plane
+
+Todo:
+- Make some firmware !!
+- The case
+- The plate
 
